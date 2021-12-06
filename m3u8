@@ -1,3 +1,29 @@
 #EXTM3U
-#EXTINF:0 tvg-id="m3u8" group-title="DESENHOS", ANIME_TV
+
+#DESENHOS
+#EXTINF:-1 tvg-id="m3u8" group-title="DESENHOS", ANIME_TV
 https://stmv1.srvif.com/animetv2/animetv2/chunklist_w47019161.m3u8
+
+#VARIEDADE
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="VARIEDADES", MTV CLIPES 1
+http://rtmp.one.by:1200
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Mhumyod.png" group-title="VARIEDADES",REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GpdqTfb.png?1" group-title="VARIEDADES",FOX HITS 
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#DOCUMENTARIOS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a/EGih9.jpg" group-title="DOCUMENTARIOS",Stephen Hawking e as Células-Tronco
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
+#EXTINF:-1 tvg-logo="https://portal2013br.files.wordpress.com/2015/10/17.jpg?w=731&h=541" group-title="DOCUMENTARIOS",O Sentido Da Vida Stephen Hawking
+http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos - hipoxia
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos -frio
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos -tempo
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jHNwjEEsynQ/maxresdefault.jpg" group-title="DOCUMENTARIOS",Telescópio O universo revelado
+http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
+#EXTINF:-1 tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_cc4eda6329ce619bbb8dd23c0f51b4cc3b857c13.jpg" group-title="DOCUMENTARIOS",Terceiro Reich: Ascensão
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
