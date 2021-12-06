@@ -36,4 +36,7 @@ http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 
 
-#
+#RADIOS
+
+#EXTINF:-1 tvg-id="" " group-title="", 80S90S2000S
+https://streamingv2.shoutcast.com/80s90s2000ssuperhitsukchart
