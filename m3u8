@@ -35,6 +35,8 @@ http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-
 #FIMEL E SERIES
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uhujdoE.jpg?1" group-title="FILMES E SÉRIES", TV DIGITAL BIRIGUI
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-id="CAÇA FANTASMAS" tvg-logo="https://coisasdeorlando.com/wp-content/uploads/2019/07/ghostbusters-halloween-horror-nights-universal-studios-orlando-cac%CC%A7a-fantasmas-2.png" group-title="FILMES E SÉRIES", CAÇA FANTASMAS 2
+https://srv40.hosti.me/hls/qt5dvu7p4bd6wyrbfu5x3vcfwag7273476g3hq2xfwxv27crr2cw2f4rivza/index-v1-a1.m3u8
 
 
 #RADIOS
