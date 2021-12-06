@@ -78,11 +78,6 @@ https://azxtv.com/hls/stream.m3u8
 #EXTINF: 0 tvg-logo = "" group-title = "CARTOON", CONTV
 https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8
 
-
-############################ FILMES SÉRIES DESENHOS ##################
-#EXTINF: 0 tvg-logo = "" group-title = "", ## FILMES E SÉRIES ##
-
-
 #EXTINF: 0 tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title = "FILMES SÉRIES", TVJN
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 
@@ -154,8 +149,6 @@ https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
 
 
-
-###################### FILMES SÉRIES CLÁSSICOS ###################
 
 #EXTINF: 0 tvg-logo = "https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYH-20/sng3/6/4/4/4/seggerQCLcBGAsYH-20/sscreenshot3126-420/segger_26220-captura grupo17-420/seg220creenshot_26220-6captura_6-420/seg2206 grupo220/seg93208captura_6-420/seg2176206-gesso3164Scaptura.png3YH-420/sng3162Scaptura_6-4206208 grupo262Scaptura_2420/seg2206206208 grupo262Scalavra-pág. "FILMES SÉRIES", PROGRESSO
 https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w1322332651.m3u8
@@ -241,7 +234,6 @@ https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1450196991.m3u8
 
 
-###################### SÓ SÉRIES SEGMENTO 24H ################## 
 
 - title = "FILMES SÉRIES" (NOTICIAS CANAL PECUÁRIA), SÉRIES
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/chunklist_w2124915173.m3u8
@@ -269,12 +261,6 @@ https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
 
 #EXTINF: 0 tvg-logo = "https://1.bp.blogspot.com/-T4ejZp3RbpE/X49JM5K2hdI/AAAAAAAADd8/2PvwOy_mnS09HXIcaC2sGLmSVpVVtvGOQCL%cBGABYHQ. GRUPO" TITULAR / TITULAR "TITULARES / TITULARESYHQ2" TITULARES "TITULARESYHQ.
 https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
-
-
-
-######################## FILMES e VARIEDADES ###############
-#EXTINF: 0 tvg-logo = "" group-title = "", ## FILMES E VARIEDADES ##
-
 
 
 #EXTINF: 0 tvg-logo = "" group-title = "FILMES SÉRIES", TV ALIANÇA
@@ -444,10 +430,6 @@ https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/chunklist_w14054903
 
 #EXTINF: 0 tvg-logo = "" group-title = "FILMES SÉRIES", CLUBE DE TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
-
-##################### VARIEDADES #########################
-#EXTINF: 0 tvg-logo = "" group-title = "", #### VARIEDADES ####
-
 
 
 #EXTINF: 0 tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title = "VARIEDADES", CENTRALTV 
@@ -635,9 +617,6 @@ http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w565111683.m3u8
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_w112024383.m3u8
 
 
-#EXTINF: 0 tvg-logo = "" group-title = "", #### REDES #### 
-############################################################### ######### 
-
 
 #EXTINF: 0 tvg-logo = "https://3.bp.blogspot.com/-yGl00jP5wz0/XT8olJHsfEI/AAAAAAAABX0/VIWzge0KCcsdJqaJ3CLerYsfvMLsQPx4ACPcBGAYYYCw9-29/s1359-9-9-captura_aaaaaAAAABX0/VIWzge0KCcsdJqaJ3CLerYsfvMLs-7-7-29/s13594ACPcBGAYYYCw-29/s1359-593-6capture_20/19/screenshot.png3/416-capture_20/creenshot_2059-s13g139-cópia "VARIEDADES", TVERS 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w200098464.m3u8
@@ -694,10 +673,6 @@ https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-p.m3u8?sd=10&r
 #EXTINF: -1 tvg-logo = "https://listaiptv.gratis/logos/imagens/recordtv.png" group-title = "VARIEDADES", RECORD DF
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&rebase=on
 
-
-
-#EXTINF: 0 tvg-logo = "" group-title = "", #### GOSPEL ####
-############################################################### #########
 
 #EXTINF: 0 tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title = "EVANGELHO", REDEFAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
@@ -766,8 +741,6 @@ https://stmv6.srvstm.com/gmusic/gmusic/chunklist_w1118991287.m3u8
 #EXTINF: 0 tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/464274e45b80e0f3e1a8cb2c90d6fec3.png" group-title = "EVANGELHO", TOP MIX
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w176600793.m3u8
 
-############################# NOTÍCIAS NOTICIAS #########################
-
 #EXTINF: 0, ## NOTICIAS RADIOS ##
 
 tvg-logo = "" group-title = ""
@@ -794,8 +767,6 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
-
-#############################################
 
 #EXTINF: 0, ## NOTICIAS PORTUGUES ##  
 tvg-logo = "" group-title = ""
@@ -830,9 +801,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 
 
-############################################################### #### 
-#EXTINF: 0, ## NOTICIAS RURAIS ##
- 
 tvg-logo = "" group-title = ""
 
 
@@ -862,11 +830,6 @@ https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8
 
 
-
-############################################## 
-#EXTINF: 0, ## NEWS ESPANHOL ##
-
-tvg-logo = "" group-title = ""
 
 #EXTINF: 0 tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/a492cc7ef638fb2911e0c045d4930186.jpg" group-title = "NEWS", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
@@ -900,8 +863,6 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 
 
-############################### 
-#EXTINF: 0 tvg-logo = "" group-title = "", ## NEWS INGLES ##
 
 
 
@@ -941,9 +902,6 @@ https://weather.newscdn.org/exOeZipwZI-f3jernVn4qQ==,1631051784/1253851229/track
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
 
 
-
-############################## DOCUMENTÁRIOS #########################
-#EXTINF: 0 tvg-logo = "" group-title = "", #### EDUCA DOC ####
 
 
 #EXTINF: 0 tvg-logo = "" group-title = "Educa Doc", TV ESCOLA
@@ -1031,9 +989,6 @@ https://edge-live-ger1.ovstream.com/hls/11/144p.m3u8?token=live_11_e2ba1c525fa1a
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w942386265.m3u8
 
 
-############################### ESPORTES ############################ #
-#EXTINF: 0 tvg-logo = "" group-title = "", #### ESPORTES ####
-
 
 #EXTINF: 0 tvg-logo = "" group-title = "ESPORTES", GOL BRASIL
 https://stmv5.samcast.com.br/caroline3961/caroline3961/chunklist_w2076930074.m3u8
@@ -1110,9 +1065,6 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF: 0 tvg-logo = "http://www.tvtuga.com/wp-content/uploads/2010/04/canale-7-200x141.png" título do grupo = "ESPORTES", CANALE 7
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
-
-####################### MUSICAL ########################
-#EXTINF: 0 tvg-logo = "" group-title = "", #### MÚSICAS ####
 
 
 
@@ -1206,8 +1158,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 https://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w379076962.m3u8
 
 
-########################### RÁDIOS MUSICAIS ########################
-#EXTINF: 0 tvg-logo = "" group-title = "RÁDIOS", #### RÁDIOS ####
 
 
 #EXTINF: 0 tvg-logo = "https://www.cxradio.com.br/img/Radio/Logo/25058466cc8e137b9f38771b8fa4f174.jpg" group-title = "RÁDIOS", BPM FM 
